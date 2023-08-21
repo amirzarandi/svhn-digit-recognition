@@ -1,8 +1,8 @@
 # svhn-digit-recognition
 
-# **Convolutional Neural Networks: Street View Housing Number Digit Recognition**
+# **Neural Networks: Street View Housing Number Digit Recognition**
 
-I will continue to work with the Street View Housing Numbers (SVHN) image dataset for this project.
+I will work with the Street View Housing Numbers (SVHN) image dataset for this project.
 
 --------------
 ### **Context:**
